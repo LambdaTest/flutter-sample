@@ -1,4 +1,4 @@
-# Run Flutter Tests on TestMu AI (Formerly LambdaTest)
+﻿# Run Flutter Tests on TestMu AI (Formerly LambdaTest)
 
 <p align="center">
   <a href="https://www.testmuai.com/"><img src="https://img.shields.io/badge/MADE%20BY%20TestMu%20AI-000000.svg?style=for-the-badge&labelColor=000" alt="Made by TestMu AI"></a>
@@ -17,10 +17,10 @@ With TestMu AI (Formerly LambdaTest), you can run Flutter tests on real devices 
 
 ### Prerequisites
 
-- [Flutter SDK](https://docs.flutter.dev/get-started/install) installed
+- Flutter SDK installed
 - Dart SDK (comes with Flutter)
-- A TestMu AI account. [Sign up for free](https://www.testmuai.com/register/).
-- TestMu AI `Username` and `Access Key` from the [TestMu AI Automation Dashboard](https://automation.testmuai.com/).
+- A TestMu AI account. Sign up for free.
+- TestMu AI `Username` and `Access Key` from the TestMu AI Automation Dashboard.
 
 ### Setup
 
@@ -59,7 +59,7 @@ Run Flutter tests locally:
 flutter test
 ```
 
-To run on the TestMu AI real device cloud, build and upload your Flutter app, then configure Appium capabilities to point to the TestMu AI grid. See the [TestMu AI Appium documentation](https://www.testmuai.com/support/docs/appium-setup-with-lambdatest-automation/) for details.
+To run on the TestMu AI real device cloud, build and upload your Flutter app, then configure Appium capabilities to point to the TestMu AI grid. See the TestMu AI Appium documentation for details.
 
 ### Local testing with TestMu AI Tunnel
 
